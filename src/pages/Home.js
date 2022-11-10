@@ -1,14 +1,10 @@
 import React from "react";
-// import images
 import WomanImg from "../assets/home/woman.png";
-// import link
 import { Link } from "react-router-dom";
-// import motion
-import { motion } from "framer-motion";
-// import transition
-import { transition1 } from "../transitions";
-// cursor context
-import { CursorContext } from "../context/CursorContext";
+// import { motion } from "framer-motion";
+// import { transition1 } from "../transitions";
+// import { CursorContext } from "../context/CursorContext";
+
 const Home = () => {
   return (
     <div className="section">
